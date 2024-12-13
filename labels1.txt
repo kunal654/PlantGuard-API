@@ -1,0 +1,11 @@
+0 healthy
+1 mosaic_virus
+2 Tomato___Tomato_Yellow_Leaf_Curl_Virus
+3 Tomato___Target_Spot
+4 Tomato___Spider_mites Two-spotted_spider_mite
+5 Tomato___Septoria_leaf_spot
+6 Tomato___Leaf_Mold
+7 Tomato___Late_blight
+8 Tomato___Early_blight
+9 Tomato___Bacterial_spot
+10 Unknown
